@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+
+  <head>
+    <meta charset="UTF-8">
+    <title>Aplicación de tareas</title>
+    <link rel="stylesheet" href="estilo.css">
+  </head>
+
+
+  <body>
+    <h1>Aplicación de tareas</h1>
+    <a href="tareas.html" id="historial">Historial de tareas</a>
+    <form id="tarea-form">
+        <input type="text" id="tarea-input" placeholder="Ingrese una nueva tarea">
+        <button type="button" id="agregar">Agregar tarea</button>
+    </form>
+
+<p id="estado">Esperando...</p>
+
+<div></div>
+
+<ol id="listadetareas">
+  <!-- Aca van las tareas -->
+</ol>
+
+<p id="notificacion">Actualizado.</p>
+<script src="js/historial.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="js/swal.js"></script>
+<script src="js/script.js"></script>
+
+
+
+  </body>
+
+  
+</html>

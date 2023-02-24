@@ -1,0 +1,26 @@
+[
+{
+    "tarea":"Tarea completada 1",
+    "progreso":100},
+{
+    "tarea":"Ejemplo 2 JSON",
+    "progreso":100},
+{
+    "tarea":"Ejemplo 3 JSON",
+    "progreso":100},
+{
+    "tarea":"Ejemplo 4 JSON",
+    "progreso":100},
+{
+    "tarea":"Ejemplo 5 JSON",
+    "progreso":100},
+{
+    "tarea":"Ejemplo 6 JSON",
+    "progreso":100},
+{
+    "tarea":"Ejemplo 7 JSON",
+    "progreso":100},
+{
+    "tarea":"Entregar CoderHouse trabajo final",
+    "progreso":100}
+]
